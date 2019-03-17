@@ -266,7 +266,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 2UM7XGBZWH;
+				DEVELOPMENT_TEAM = ZBRVJJDNMD;
 				"OTHER_LDFLAGS[arch=*]" = "";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -276,7 +276,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 2UM7XGBZWH;
+				DEVELOPMENT_TEAM = ZBRVJJDNMD;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
